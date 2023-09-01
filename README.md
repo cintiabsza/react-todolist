@@ -1,3 +1,3 @@
 # react-todolist
 
-<a href= "https://cintiabsza.github.io/react-todolist.html">  
+<a href= "https://github.com/cintiabsza/react-todolist.git">  
