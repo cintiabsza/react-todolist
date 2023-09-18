@@ -1,5 +1,7 @@
-# react-todolist
+# React-TodoList
 
-<a href= "https://cintiabsza.github.io/react-todolist/"> To Do List react 
+You can check this project <a href= "https://cintiabsza.github.io/react-todolist/"> here
 
-To Do List project is an exercise developed from Dimitri Teixeira's class available <a href= "https://www.youtube.com/@programacaoweb"> here
+To Do List project is an exercise developed by Dimitri Teixeira during a react class. The tutotial is available <a href= "https://www.youtube.com/watch?v=vcCKywPfQGs"> here
+
+I've reproduced the code and I've made basic changes in order to study react aplications.
