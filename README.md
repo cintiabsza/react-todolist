@@ -2,7 +2,7 @@
 
 You can check this project <a href= "https://cintiabsza.github.io/react-todolist/"> here
 
-# What this application does
+### What this application does
 
 The appication helps user manage their tasks effectively. User can easily create a new task, mark wen it's complete and delete the task wen is not necessery to check it out . 
 
