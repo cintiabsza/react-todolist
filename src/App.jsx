@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 import './App.css';
-import Icon from './assets/icon.jpg';
+import Icon from './assets/task-list.jpg';
 
 
 function App(){
